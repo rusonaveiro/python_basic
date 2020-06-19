@@ -1,0 +1,14 @@
+Collecting virtualenv
+  Downloading virtualenv-20.0.21-py2.py3-none-any.whl (4.7 MB)
+Collecting distlib<1,>=0.3.0
+  Downloading distlib-0.3.0.zip (571 kB)
+Requirement already satisfied: six<2,>=1.9.0 in /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages (from virtualenv) (1.14.0)
+Collecting appdirs<2,>=1.4.3
+  Downloading appdirs-1.4.4-py2.py3-none-any.whl (9.6 kB)
+Collecting filelock<4,>=3.0.0
+  Downloading filelock-3.0.12-py3-none-any.whl (7.6 kB)
+Using legacy setup.py install for distlib, since package 'wheel' is not installed.
+Installing collected packages: distlib, appdirs, filelock, virtualenv
+    Running setup.py install for distlib: started
+    Running setup.py install for distlib: finished with status 'done'
+Successfully installed appdirs-1.4.4 distlib-0.3.0 filelock-3.0.12 virtualenv-20.0.21
